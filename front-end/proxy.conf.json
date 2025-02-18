@@ -1,0 +1,6 @@
+{
+    "/api": {
+        "target": "https://www.louienorman.com",
+        "secure": false
+    }
+}
